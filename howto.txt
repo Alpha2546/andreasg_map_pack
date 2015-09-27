@@ -49,7 +49,15 @@ edit the pas files and add descriptions etc.
 edit the maplist.js to add the maps to the list.
 update the modinfo.json.
 
-Sync this up through the github desktop app.
+Sync this up through the github desktop app. 
+open up github desktop app. navigate to your andreasg_map_pack. click on it and then you'll see
+above in the middle uncomitted changes. click on that too
+
+add a summary and click commit to master. then press sync.
+
+After that pm me and I'll do the last step and put it on pamm for you. I'll explain that next
+time when you have the rights for that.
+
 
 
 

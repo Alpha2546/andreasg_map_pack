@@ -1,6 +1,8 @@
 ﻿cShareSystems.load_pas("AndreasG", [
-	"coui://ui/mods/andreasg/systems/tectonic.pas",	
-	"coui://ui/mods/andreasg/systems/progenitors_lair.pas",
-	"coui://ui/mods/andreasg/systems/hanfyren.pas",	
-	"coui://ui/mods/andreasg/systems/xankars™_fury commpush_© _ ©.pas"		
+	"coui://ui/mods/andreasg/systems/the_forgery.pas",	
+	"coui://ui/mods/andreasg/systems/chocke.pas",
+	"coui://ui/mods/andreasg/systems/the_faceoff",	
+	"coui://ui/mods/andreasg/systems/gsystem.pas",	
+	"coui://ui/mods/andreasg/systems/8_leaf_clover.pas",	
+	"coui://ui/mods/andreasg/systems/mots_recipe_for_disaster.pas"		
 ]);

@@ -1,4 +1,4 @@
-	"creator": "Andreasurne",
+	"creator": "AndreasG",
 	"version": "1",
 	"date": "2015/09/28",
 	"description": "On this map you fight on a small moonplannet face to face with your opponent. Locking down areas, good decisions and reclaim is vital",

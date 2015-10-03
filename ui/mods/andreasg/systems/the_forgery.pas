@@ -1,4 +1,4 @@
-	"creator": "Andreasurne",
+	"creator": "AndreasG",
 	"version": "1",
 	"date": "2015/09/28",
 	"description": "You love forge, but are a bit tired of it? The Forgery is heavily inspired of the well known map with some revolutionary tweeks",		

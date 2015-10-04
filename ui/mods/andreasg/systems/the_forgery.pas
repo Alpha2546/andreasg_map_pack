@@ -1,9 +1,9 @@
+{
+    "name": "The Forgery",
 	"creator": "AndreasG",
 	"version": "1",
 	"date": "2015/10/04",
-	"description": "You love forge, but are a bit tired of it? The Forgery is heavily inspired of the well known map with some revolutionary tweaks",		
-{
-    "name": "The Forgery",
+	"description": "You love forge, but are a bit tired of it? The Forgery is heavily inspired of the well known map with some revolutionary tweaks",			
     "planets": [
         {
             "name": "GStone",

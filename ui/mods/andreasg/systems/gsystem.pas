@@ -1,9 +1,9 @@
-"creator": "AndreasG",
-	"version": "1",
-	"date": "2015/10/04",
-	"description": "Play on a middle sized planet that is micro heavy. A map that separates the very best player from the slightly less skilled. The players spawn on the poles, so fighting over metal is a must.",
 {
     "name": "GSystem",
+	"creator": "AndreasG",
+	"version": "1",
+	"date": "2015/10/04",
+	"description": "Play on a middle sized planet that is micro heavy. A map that separates the very best player from the slightly less skilled. The players spawn on the poles, so fighting over metal is a must.",	
     "planets": [
         {
             "name": "Gplan",

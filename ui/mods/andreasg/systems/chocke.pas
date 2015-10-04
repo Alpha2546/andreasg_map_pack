@@ -1,7 +1,7 @@
 "creator": "AndreasG",
 	"version": "1",
-	"date": "2015/09/28",
-	"description": "My favourite map in the map pack. Play on a naval/land map with endless different strategies. Which one is the best? Will you fight over the islands or will you rule the seven seas? Be ready for a game to remember!",
+	"date": "2015/10/04",
+	"description": "My favorite map in the map pack. Play on a naval/land map with endless different strategies. Which one is the best? Will you fight over the islands or will you rule the seven seas? Be ready for a game to remember!",
 {
     "name": "Chocke",
     "planets": [

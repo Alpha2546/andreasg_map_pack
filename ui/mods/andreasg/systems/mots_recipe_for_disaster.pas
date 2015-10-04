@@ -1,7 +1,7 @@
 	"creator": "Mot9001",
 	"version": "1",
-	"date": "2015/09/28",
-	"description": "One of Mots crazy maps. I challenge you to go some rounds on this madness. Fight over the galaxy in the craziest 1v1 you could possibly play. A system that heavily favourites macro and a bigger plan. This is like nothing you have ever played 1v1. May the gods be with you.",
+	"date": "2015/10/04",
+	"description": "One of Mots crazy maps. I challenge you to go some rounds on this madness. Fight over the galaxy in the craziest 1v1 you could possibly play. This is a system that heavily favorites macro and a bigger plan. This is like nothing you have ever played 1v1. May the gods be with you.",
 {
     "name": "Mots Recipe For Disaster",
     "planets": [

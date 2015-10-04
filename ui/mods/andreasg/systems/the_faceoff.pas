@@ -1,7 +1,7 @@
 	"creator": "AndreasG",
 	"version": "1",
-	"date": "2015/09/28",
-	"description": "On this map you fight on a small moonplannet face to face with your opponent. Locking down areas, good decisions and reclaim is vital",
+	"date": "2015/10/04",
+	"description": "On this map you fight on a small moon planet face to face with your opponent. Locking down areas, good decisions and reclaim is vital",
 {
     "name": "The Faceoff",
     "planets": [

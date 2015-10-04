@@ -1,7 +1,7 @@
 "creator": "Mot9001",
 	"version": "1",
-	"date": "2015/09/28",
-	"description": "The known map for Able Gamers Tournament made by the amazing Mot. A system for everyone who enjoys bigger maps. There are a 1/8 chance of you spawning in right next to your enemy commander. A map with huge replay value. The game will be heavily affected by where you spawn relative to each other",
+	"date": "2015/10/04",
+	"description": "The known map for Able Gamers Tournament made by the amazing Mot. A system for everyone who enjoys bigger maps. There are a 1/8 chance of you spawning in right next to your enemy commander. This map has huge replay value. The game will be heavily affected by where you spawn relative to each other",
 {
     "name": "8 Leaf Clover",
     "planets": [

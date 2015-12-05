@@ -1,10 +1,10 @@
 {
     
-    "name": "(NEW) AmazonasSafari",
+    "name": "AmazonasSafari",
 	"creator": "AndreasG",
 	"version": "1.0",
 	"date": "2015/10/18",
-	"description": "A compact 1v1 that has all the elements. Balance the reading, pushing, controlling and eco on a next level to take it home. If you expand greedy you may end up as dinner. With ponds around the map naval is an interesting choice",
+	"description": "A compact 1v1 that has all the elements. Balance the rading, pushing, controlling and eco on a next level to take it home. If you expand greedy you may end up as dinner. With ponds around the map naval is an interesting choice",
     "planets": [
         {
             "name": "Tuck",

@@ -1,4 +1,5 @@
 ﻿cShareSystems.load_pas("AndreasG 1v1 Pack", [
+	"coui://ui/mods/andreasg/systems/hades.pas",
 	"coui://ui/mods/andreasg/systems/atlantis.pas",
 	"coui://ui/mods/andreasg/systems/frozenoreoyoghurt.pas",
 	"coui://ui/mods/andreasg/systems/amazonassafari.pas",

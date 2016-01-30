@@ -7,7 +7,7 @@
 
     "planets": [
         {
-            "name": "Tundra",
+            "name": "Frozen",
             "mass": 10000,
             "position_x": 42700,
             "position_y": -3700,

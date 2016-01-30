@@ -4,10 +4,9 @@
 	"version": "1.1",
 	"date": "2015/12/08",
 	"description": "Fight over PA Hell in an intense 1v1 map.",
-     "name": "UnderWorld",
     "planets": [
         {
-            "name": "Riley-8832",
+            "name": "UnderWorld",
             "mass": 10000,
             "position_x": 25300,
             "position_y": -5500,

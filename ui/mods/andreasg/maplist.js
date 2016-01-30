@@ -1,6 +1,6 @@
 cShareSystems.load_pas("AndreasG 1v1 Pack", [
 	"coui://ui/mods/andreasg/systems/tundra.pas",
-	"coui://ui/mods/andreasg/systems/dethstar.pas",
+	"coui://ui/mods/andreasg/systems/deathstar.pas",
 	"coui://ui/mods/andreasg/systems/theclassybarren.pas",
 	"coui://ui/mods/andreasg/systems/hades.pas",
 	"coui://ui/mods/andreasg/systems/atlantis.pas",

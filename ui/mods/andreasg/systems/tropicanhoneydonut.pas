@@ -1,5 +1,5 @@
 {
-   "name": "(NEW) TropicanHoneyDonut",
+    "name": "(NEW) TropicanHoneyDonut",
     "creator": "AndreasG",
     "version": "1.0",
     "date": "2016/02/15",

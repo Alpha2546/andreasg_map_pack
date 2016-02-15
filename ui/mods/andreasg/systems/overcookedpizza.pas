@@ -4,8 +4,7 @@
 	"version": "1.0",
 	"date": "2016/02/15",
 	"description": "We all love Pizza, but not overcooked. You are going to love this one anyways. It is a handsome map with close combat and sneaky expantions. Watch out for AsZeals air fabbers.",
-
-    "planets": [
+	"planets": [
         {
             "name": BurntPizza",
             "mass": 10000,

@@ -1,5 +1,5 @@
 {
-    "name": "(NEW) Atlantis",
+    "name": "Atlantis",
 	"creator": "AndreasG",
 	"version": "1.1",
 	"date": "2015/12/05",

@@ -1,5 +1,5 @@
 {
-    "name": "(NEW) Hades",
+    "name": "Hades",
 	"creator": "AndreasG",
 	"version": "1.1",
 	"date": "2015/12/08",

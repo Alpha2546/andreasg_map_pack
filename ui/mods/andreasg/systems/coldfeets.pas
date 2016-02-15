@@ -6,7 +6,7 @@
     "description": "The Ice Age is over and the ice is melting but you are stil in danger of getting cold feets. Make sure that dosnt happen. ColdFeets is a big and intence map where macro and awareness are going to be deciding factors",
     "planets": [
         {
-            "name": "Flakes"
+            "name": "Flakes",
             "mass": 20000,
             "position_x": 74700,
             "position_y": -9900,

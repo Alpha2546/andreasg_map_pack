@@ -6,7 +6,7 @@
     "description": "We all love Pizza, but not overcooked. You are going to love this one anyways. It is a handsome map with close combat and sneaky expantions. Watch out for AsZeals air fabbers",
     "planets": [
         {
-            "name": BurntPizza",
+            "name": "BurntPizza",
             "mass": 10000,
             "position_x": 14900,
             "position_y": -900,

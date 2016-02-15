@@ -1,10 +1,9 @@
 {
-    "name": "(NEW) ColdFeets",
+   "name": "(NEW) ColdFeets",
 	"creator": "AndreasG",
 	"version": "1.0",
 	"date": "2016/02/15",
 	"description": "The Ice Age is over and the ice is melting but you are stil in danger of getting cold feets. Make sure that dosnt happen. ColdFeets is a big and intence map where macro and awareness are going to be deciding factors",
-
     "planets": [
         {
             "name": "Flakes"

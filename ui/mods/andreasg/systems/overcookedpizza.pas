@@ -1,5 +1,5 @@
 {
-    "name": "(NEW) OvercookedPizza",
+    "name": "OvercookedPizza",
     "creator": "AndreasG",
     "version": "1.0",
     "date": "2016/02/15",

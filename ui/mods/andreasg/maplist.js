@@ -1,4 +1,7 @@
 cShareSystems.load_pas("AndreasG 1v1 Pack", [
+	"coui://ui/mods/andreasg/systems/thewall.pas",
+	"coui://ui/mods/andreasg/systems/arctic.pas",
+	"coui://ui/mods/andreasg/systems/venetzia.pas",
 	"coui://ui/mods/andreasg/systems/tropicanhoneydonut.pas",
 	"coui://ui/mods/andreasg/systems/overcookedpizza.pas",
 	"coui://ui/mods/andreasg/systems/coldfeets.pas",

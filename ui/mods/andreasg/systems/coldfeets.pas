@@ -1,5 +1,5 @@
 {
-    "name": "(NEW) ColdFeets",
+    "name": "ColdFeets",
     "creator": "AndreasG",
     "version": "1.0",
     "date": "2016/02/15",

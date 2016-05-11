@@ -1,5 +1,5 @@
 {
-    "name": "(NEW) Arctic",
+    "name": "Arctic",
 	"creator": "N30N",
 	"version": "1.0",
 	"date": "2016/03/31",

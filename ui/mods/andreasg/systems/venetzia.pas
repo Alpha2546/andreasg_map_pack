@@ -1,5 +1,5 @@
 {
-    "name": "(NEW) Venetzia",
+    "name": "Venetzia",
 	"creator": "AndreasG",
 	"version": "1.0",
 	"date": "2016/03/31",

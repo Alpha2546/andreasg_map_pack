@@ -1,5 +1,5 @@
 {
-    "name": "(NEW) TheWall",
+    "name": "TheWall",
 	"creator": "AndreasG",
 	"version": "1.0",
 	"date": "2016/03/31",
